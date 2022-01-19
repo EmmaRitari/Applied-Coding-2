@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>HTML 5</title>
+		<meta name="description" content="Eliademy HTML 5 Course">
+	</head>
+	<body>
+		<h1>Some text</h1>
+		<p>Some more text</p>
+	<table border="1">
+		<tr>
+		<td>Winter</td>
+		<td>Spring</td>
+		</tr>
+		<tr>
+		<td>Summer</td>
+		<td>Fall</td>
+		</tr>
+	</table>
+	</body>
+</html>
