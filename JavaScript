@@ -1,0 +1,13 @@
+If a>5 say excellent
+If a=5 say good
+If a<5 say ok
+
+
+let a=7;
+
+if (a>5)
+ console.log('Excellent');
+Else if (a=5)
+ console.log('Good);
+Else if (a<5)
+ console.log('Ok');
